@@ -91,9 +91,9 @@ I believe in learning by building, experimenting, and continuously improving.
 
 I'm always interested in learning, collaborating on projects, and connecting with people in technology.
 
-📧 **Email:** [Your Email]
+📧 **Email:
 
-💼 **LinkedIn:** [Your LinkedIn]
+💼 **LinkedIn:
 
 ---
 
